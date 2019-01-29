@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-01-29T07:34:33.394Z</updated>
+  <updated>2019-01-29T08:44:07.122Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,20 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>与2019.1.29签订租房合同</title>
+    <link href="http://yoursite.com/2019/01/29/%E4%B8%8E2019-1-29%E7%AD%BE%E8%AE%A2%E7%A7%9F%E6%88%BF%E5%90%88%E5%90%8C/"/>
+    <id>http://yoursite.com/2019/01/29/与2019-1-29签订租房合同/</id>
+    <published>2019-01-29T08:44:07.000Z</published>
+    <updated>2019-01-29T08:44:07.122Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>firstPost</title>
