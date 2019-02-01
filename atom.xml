@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-01-31T11:35:27.751Z</updated>
+  <updated>2019-02-01T05:34:46.287Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://yoursite.com/2019/01/30/2019-1-30%E7%90%90%E8%AE%B0/"/>
     <id>http://yoursite.com/2019/01/30/2019-1-30琐记/</id>
     <published>2019-01-30T11:30:40.000Z</published>
-    <updated>2019-01-31T11:35:27.751Z</updated>
+    <updated>2019-02-01T05:34:46.287Z</updated>
     
     <content type="html"><![CDATA[<h1 id="理想记"><a href="#理想记" class="headerlink" title="理想记"></a>理想记</h1><p>​      今天上午收到三箱草莓，两箱送给张大姐，下午于楼下理发</p><p>​      晚上与李欣超在山东路吃了一顿烧烤，算是创乐教育两名创始人展望未来的聚会吧。为了更美好的明天。</p><p>​      今年初始目标做到一个校区运行有60名学生，并且能拿到一笔投资，说起来有点可笑，但我真的这么想</p>]]></content>
     
@@ -45,7 +45,7 @@
     <link href="http://yoursite.com/2019/01/29/%E4%B8%8E2019-1-29%E7%AD%BE%E8%AE%A2%E7%A7%9F%E6%88%BF%E5%90%88%E5%90%8C/"/>
     <id>http://yoursite.com/2019/01/29/与2019-1-29签订租房合同/</id>
     <published>2019-01-29T08:44:07.000Z</published>
-    <updated>2019-01-31T11:15:02.394Z</updated>
+    <updated>2019-02-01T05:35:40.046Z</updated>
     
     <content type="html"><![CDATA[<p>今天是2019.1.29，今天下午四点签订了华南红星美凯龙二号楼1104的租房合同，为期两年，押一付六。</p><p>​    没有想象中的轻松，反而感觉很沉重，像是杨白劳一笔一划写下自己的名字。房租像是一个乌龟壳，会给人以安全感，与此同时也无法飞翔。这个房子目标用于做少儿编程培训，这条路确实不好走，没有刚需，但是他是更美好的未来。</p><hr><p><img src="http://plzixj6f0.bkt.clouddn.com/%E5%90%88%E5%90%8C2.jpeg" alt=""></p><p><img src="http://plzixj6f0.bkt.clouddn.com/%E5%90%88%E5%90%8C1.jpeg" alt=""></p>]]></content>
     
@@ -59,6 +59,8 @@
     
     </summary>
     
+      <category term="乐创相关" scheme="http://yoursite.com/categories/%E4%B9%90%E5%88%9B%E7%9B%B8%E5%85%B3/"/>
+    
     
       <category term="乐创教育成长记" scheme="http://yoursite.com/tags/%E4%B9%90%E5%88%9B%E6%95%99%E8%82%B2%E6%88%90%E9%95%BF%E8%AE%B0/"/>
     
@@ -69,7 +71,7 @@
     <link href="http://yoursite.com/2019/01/27/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/"/>
     <id>http://yoursite.com/2019/01/27/第一篇博客/</id>
     <published>2019-01-27T14:45:48.000Z</published>
-    <updated>2019-01-31T11:30:02.965Z</updated>
+    <updated>2019-02-01T05:26:01.369Z</updated>
     
     <content type="html"><![CDATA[<h2 id="这是我的第一篇博客"><a href="#这是我的第一篇博客" class="headerlink" title="这是我的第一篇博客"></a>这是我的第一篇博客</h2><p>博客相关命令</p><p>新建类别 </p><figure class="highlight css"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="selector-tag">hexo</span> <span class="selector-tag">new</span> <span class="selector-tag">page</span> <span class="selector-tag">categories</span></span><br></pre></td></tr></table></figure><p>新建标签   </p><figure class="highlight css"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="selector-tag">hexo</span> <span class="selector-tag">new</span> <span class="selector-tag">page</span> <span class="selector-tag">tags</span></span><br></pre></td></tr></table></figure><p>新建文章 </p><figure class="highlight css"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="selector-tag">hexo</span> <span class="selector-tag">new</span> "文章名称"</span><br></pre></td></tr></table></figure><p> 上传相关  </p><figure class="highlight css"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line"><span class="selector-tag">hexo</span> <span class="selector-tag">clean</span></span><br><span class="line"><span class="selector-tag">hexo</span> <span class="selector-tag">g</span></span><br><span class="line"><span class="selector-tag">hexo</span> <span class="selector-tag">d</span></span><br></pre></td></tr></table></figure><p>本地测试</p><figure class="highlight css"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="selector-tag">hexo</span> <span class="selector-tag">s</span></span><br></pre></td></tr></table></figure>]]></content>
     
@@ -83,6 +85,8 @@
       
     
     </summary>
+    
+      <category term="hexo" scheme="http://yoursite.com/categories/hexo/"/>
     
     
   </entry>

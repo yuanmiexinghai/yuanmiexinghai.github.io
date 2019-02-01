@@ -30,6 +30,12 @@
         <content type="html"><![CDATA[<p>今天是2019.1.29，今天下午四点签订了华南红星美凯龙二号楼1104的租房合同，为期两年，押一付六。</p><p>​    没有想象中的轻松，反而感觉很沉重，像是杨白劳一笔一划写下自己的名字。房租像是一个乌龟壳，会给人以安全感，与此同时也无法飞翔。这个房子目标用于做少儿编程培训，这条路确实不好走，没有刚需，但是他是更美好的未来。</p><hr><p><img src="http://plzixj6f0.bkt.clouddn.com/%E5%90%88%E5%90%8C2.jpeg" alt=""></p><p><img src="http://plzixj6f0.bkt.clouddn.com/%E5%90%88%E5%90%8C1.jpeg" alt=""></p>]]></content>
       
       
+      <categories>
+          
+          <category> 乐创相关 </category>
+          
+      </categories>
+      
       
         <tags>
             
@@ -48,6 +54,12 @@
       
         <content type="html"><![CDATA[<h2 id="这是我的第一篇博客"><a href="#这是我的第一篇博客" class="headerlink" title="这是我的第一篇博客"></a>这是我的第一篇博客</h2><p>博客相关命令</p><p>新建类别 </p><figure class="highlight css"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="selector-tag">hexo</span> <span class="selector-tag">new</span> <span class="selector-tag">page</span> <span class="selector-tag">categories</span></span><br></pre></td></tr></table></figure><p>新建标签   </p><figure class="highlight css"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="selector-tag">hexo</span> <span class="selector-tag">new</span> <span class="selector-tag">page</span> <span class="selector-tag">tags</span></span><br></pre></td></tr></table></figure><p>新建文章 </p><figure class="highlight css"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="selector-tag">hexo</span> <span class="selector-tag">new</span> "文章名称"</span><br></pre></td></tr></table></figure><p> 上传相关  </p><figure class="highlight css"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line"><span class="selector-tag">hexo</span> <span class="selector-tag">clean</span></span><br><span class="line"><span class="selector-tag">hexo</span> <span class="selector-tag">g</span></span><br><span class="line"><span class="selector-tag">hexo</span> <span class="selector-tag">d</span></span><br></pre></td></tr></table></figure><p>本地测试</p><figure class="highlight css"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="selector-tag">hexo</span> <span class="selector-tag">s</span></span><br></pre></td></tr></table></figure>]]></content>
       
+      
+      <categories>
+          
+          <category> hexo </category>
+          
+      </categories>
       
       
     </entry>
