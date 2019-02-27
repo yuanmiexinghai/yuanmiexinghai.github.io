@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-02-27T08:41:24.821Z</updated>
+  <updated>2019-02-27T08:53:47.455Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://yoursite.com/2019/02/27/%E4%B8%8E%E7%8E%8B%E5%86%B2%E7%AD%BE%E8%AE%A2%E7%BE%8E%E8%A7%86%E9%A2%91%E4%BA%8C%E6%9C%9F%E8%BF%AD%E4%BB%A3/"/>
     <id>http://yoursite.com/2019/02/27/与王冲签订美视频二期迭代/</id>
     <published>2019-02-27T08:28:09.000Z</published>
-    <updated>2019-02-27T08:41:24.821Z</updated>
+    <updated>2019-02-27T08:53:47.455Z</updated>
     
     <content type="html"><![CDATA[<h1 id="2019-2-27-签订美视频第二期开发"><a href="#2019-2-27-签订美视频第二期开发" class="headerlink" title="2019.2.27  签订美视频第二期开发"></a>2019.2.27  签订美视频第二期开发</h1><p>定价8W 还价6W 最后以6.8W价格敲定 工期三个月 包括后台，ios，安卓，web端。 现在后台1.5w web 1k 移动端今晚报价。</p><p>这也就是现在急用钱…要不还可以再往上敲一些<br>2019.2.27 预付款 1W元  支付宝 </p>]]></content>
     
@@ -35,7 +35,30 @@
     </summary>
     
     
-      <category term="开发项目" scheme="http://yoursite.com/tags/%E5%BC%80%E5%8F%91%E9%A1%B9%E7%9B%AE/"/>
+      <category term="软件项目开发" scheme="http://yoursite.com/tags/%E8%BD%AF%E4%BB%B6%E9%A1%B9%E7%9B%AE%E5%BC%80%E5%8F%91/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>培训管理系统开发</title>
+    <link href="http://yoursite.com/2019/02/25/%E5%9F%B9%E8%AE%AD%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F%E5%BC%80%E5%8F%91/"/>
+    <id>http://yoursite.com/2019/02/25/培训管理系统开发/</id>
+    <published>2019-02-25T08:52:02.000Z</published>
+    <updated>2019-02-27T08:59:17.593Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="第一个自主研发的培训管理系统正式开始了"><a href="#第一个自主研发的培训管理系统正式开始了" class="headerlink" title="第一个自主研发的培训管理系统正式开始了"></a>第一个自主研发的培训管理系统正式开始了</h1><p>做开发这么久，能拥有属于自己的软件(软件公司)是我一直以来的梦想之一，这次有了一个好的切入点，希望能尽最大努力好好完成。<br>系统第一版做到了将教师上课课时与学生相对照。开发流程，UI以精简为主，第一期报价2.5K 这个价格还是很良心的…感谢阿斌的帮助</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;第一个自主研发的培训管理系统正式开始了&quot;&gt;&lt;a href=&quot;#第一个自主研发的培训管理系统正式开始了&quot; class=&quot;headerlink&quot; title=&quot;第一个自主研发的培训管理系统正式开始了&quot;&gt;&lt;/a&gt;第一个自主研发的培训管理系统正式开始了&lt;/h1&gt;&lt;p&gt;做开
+      
+    
+    </summary>
+    
+    
+      <category term="软件项目开发" scheme="http://yoursite.com/tags/%E8%BD%AF%E4%BB%B6%E9%A1%B9%E7%9B%AE%E5%BC%80%E5%8F%91/"/>
     
   </entry>
   
